@@ -1,0 +1,133 @@
+<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+            <div class="rack-box blue-bg">
+              <div class="rack">Cisco WS-C3560V2-48PS-S</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box blue-bg">
+              <div class="rack"><a class="blue-bg" data-toggle="modal" href="#myModalPort">Порт 11111</a></div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box blue-bg">
+              <div class="rack">Порт 22222</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box blue-bg">
+              <div class="rack">Порт 33333</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box blue-bg">
+              <div class="rack">Порт 44444</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box blue-bg">
+              <div class="rack">Порт 55555</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box blue-bg">
+              <div class="rack"><a class="blue-bg" data-toggle="modal" href="#myModalAdd">Добавить порт</a></div>
+            </div>
+            <!--/.rack-box-->
+          </div>
+          <!--/.col-->
+
+
+<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+            <div class="rack-box brown-bg">
+              <div class="rack">D-link DES-3200-28P</div>
+            </div>
+            <!--/.info-box-->
+            <div class="rack-box brown-bg">
+              <div class="rack">Порт 11111</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box brown-bg">
+              <div class="rack">Порт 22222</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box brown-bg">
+              <div class="rack"><a class="brown-bg" data-toggle="modal" href="#myModalOk">Добавить порт</a></div>
+            </div>
+            <!--/.rack-box-->
+          </div>
+          <!--/.col-->
+
+          <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+            <div class="rack-box dark-bg">
+              <div class="rack">Cisco WS-C2948</div>
+            </div>
+            <!--/.info-box-->
+            <div class="rack-box dark-bg">
+              <div class="rack">Порт 11111</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box dark-bg">
+              <div class="rack">Порт 22222</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box dark-bg">
+              <div class="rack">Порт 33333</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box dark-bg">
+              <div class="rack"><a class="dark-bg" data-toggle="modal" href="#myModalAdd">Добавить порт</a></div>
+            </div>
+            <!--/.rack-box-->
+          </div>
+          <!--/.col-->
+
+          <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+            <div class="rack-box green-bg">
+              <div class="rack">Cisco WS-C3508G-XL</div>
+            </div>
+            <!--/.info-box-->
+            <div class="rack-box green-bg">
+              <div class="rack">Порт 11111</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box green-bg">
+              <div class="rack"><a class="green-bg" data-toggle="modal" href="#myModalAdd">Добавить порт</a></div>
+            </div>
+            <!--/.rack-box-->
+          </div>
+          <!--/.col-->
+
+          <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+            <div class="rack-box pink-bg">
+              <div class="rack">Cisco WS-C4506</div>
+            </div>
+            <!--/.info-box-->
+            <div class="rack-box pink-bg">
+              <div class="rack">Порт 11111</div>
+            </div>
+
+            <!--/.rack-box-->
+            <div class="rack-box pink-bg">
+              <div class="rack">Порт 22222</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box pink-bg">
+              <div class="rack">Порт 33333</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box pink-bg">
+              <div class="rack">Порт 44444</div>
+            </div>
+            <!--/.rack-box-->
+            <div class="rack-box pink-bg">
+              <div class="rack"><a class="pink-bg" data-toggle="modal" href="#myModalAdd">Добавить порт</a></div>
+            </div>
+            <!--/.rack-box-->
+          </div>
+          <!--/.col-->
+
+          <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+            <div class="rack-box orange-bg">
+              <div class="rack">Cisco WS-C2950T-24</div>
+            </div>
+            <!--/.info-box-->          
+            <div class="rack-box orange-bg">
+              <div class="rack"><a class="orange-bg" data-toggle="modal" href="#myModalAdd">Добавить порт</a></div>
+            </div>
+            <!--/.rack-box-->
+          </div>
+          <!--/.col-->
