@@ -145,6 +145,8 @@
             </div>
             </div>
 
+            <!-- Вывод блоков с именами серверных -->
+            
             <?php
 
                 $result = mysqli_query($connection, "SELECT name FROM $table_audit WHERE id_type='9'");
